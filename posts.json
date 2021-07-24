@@ -1,5 +1,5 @@
-id:1,
-title:'Довлатов',
-date:'21.21.21',
-content:'lorem ipsum esralsemrklasmerklamerklmaesklrmal;skemrklasmerklma sema rlkmase lrmase kmra;lekm rklaemsmram le',
-img:'https://telegra.ph/file/e4d6b38de3e9484f750a8.jpg'
+id=1,
+title=Довлатов,
+date=21.21.21,
+content=lorem ipsum esralsemrklasmerklamerklmaesklrmal skemrklasmerklma sema rlkmase lrmase kmralekm rklaemsmram le,
+img=https://telegra.ph/file/e4d6b38de3e9484f750a8.jpg
